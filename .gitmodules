@@ -1,0 +1,3 @@
+[submodule "equibrief-frontend"]
+	path = equibrief-frontend
+	url = https://github.com/bachal-abro/equibrief-frontend.git
